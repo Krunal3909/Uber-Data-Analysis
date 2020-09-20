@@ -1,6 +1,6 @@
 ## **Analysis of Uber's Ridership Data for NYC.**
 
-Early in 2017, the NYC Taxi and Limousine Commission [(TLC)](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) released a dataset about Uber's ridership between September 2014 and August 2015. The data contains features distinct from those in the set previously released and throughly explored by FiveThirtyEight and the [Kaggle community](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city). Check the [Jupyter Notebook](https://github.com/geoninja/Uber-Data-Analysis/blob/master/NYC_Uber_Rides.ipynb) in this repository to see the contents of the data. 
+Early in 2017, the NYC Taxi and Limousine Commission [(TLC)](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) released a dataset about Uber's ridership between September 2014 and August 2015. The data contains features distinct from those in the set previously released and throughly explored by FiveThirtyEight and the [Kaggle community](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city). Check the [Jupyter Notebook](https://github.com/Krunal3909/Uber-Data-Analysis/blob/master/NYC_Uber_Rides.ipynb) in this repository to see the contents of the data. 
 
 
 **This project aims to:**
